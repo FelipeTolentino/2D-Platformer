@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 53a87100ed7112b4c8e89888c6da0702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5277544327465088571
+    second: MC Idle_0
+  - first:
+      213: 6228034479823138979
+    second: MC Idle_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.257307, y: 13.751461}
+        - {x: -11.799715, y: 9.840538}
+        - {x: -13.438597, y: 3.6403522}
+        - {x: -9.087046, y: -2.3961983}
+        - {x: -10.974913, y: -4.4231033}
+        - {x: -9.415203, y: -12.687134}
+        - {x: -9.192984, y: -24.219297}
+        - {x: -4.305731, y: -24.279928}
+        - {x: -2.2616024, y: -17.107195}
+        - {x: 0.37993622, y: -17.581236}
+        - {x: 1.3566322, y: -24.5}
+        - {x: 6.918129, y: -24.5}
+        - {x: 5.701454, y: -21.859488}
+        - {x: 5.327484, y: -12.137424}
+        - {x: 6.9334145, y: -8.961739}
+        - {x: 6.0051575, y: -5.1103725}
+        - {x: 4.9437943, y: -1.874258}
+        - {x: 8.335297, y: 2.1576385}
+        - {x: 7.754387, y: 10.383041}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363fecaa9a9d3940800000000000000
+      internalID: 5277544327465088571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Idle_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.789467, y: 12.6286545}
+        - {x: -11.799715, y: 9.840538}
+        - {x: -13.438597, y: 3.6403522}
+        - {x: -9.74202, y: -3.2383041}
+        - {x: -11.34919, y: -8.727198}
+        - {x: -8.385963, y: -15.307017}
+        - {x: -9.192984, y: -24.219297}
+        - {x: -4.305731, y: -24.279928}
+        - {x: -2.2616024, y: -17.107195}
+        - {x: 0.37993622, y: -17.581236}
+        - {x: 1.3566322, y: -24.5}
+        - {x: 6.918129, y: -24.5}
+        - {x: 5.701454, y: -21.859488}
+        - {x: 6.263153, y: -14.102337}
+        - {x: 6.9334145, y: -8.961739}
+        - {x: 5.9115906, y: -5.391073}
+        - {x: 5.2245026, y: -3.0906315}
+        - {x: 8.61599, y: 1.7833691}
+        - {x: 7.473686, y: 9.073097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03eb2ac5c6e6650800000000000000
+      internalID: 6228034479823138979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MC Idle_0: 5277544327465088571
+      MC Idle_1: 6228034479823138979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
